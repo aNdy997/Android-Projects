@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Percenty</string>
+    <string name="Percentage">PERCENTAGE</string>
+    <string name="Number">NUMBER</string>
+    <string name="Calculate">CALCULATE</string>
+    <string name="Result">RESULT</string>
+    <string name="Sign">%</string>
+</resources>
